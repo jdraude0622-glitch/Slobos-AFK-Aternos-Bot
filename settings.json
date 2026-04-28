@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SURVIVALJD-UiAC.aternos.me
-  ",
+    "ip": "SURVIVALJD-UiAC.aternos.me",
     "port":  29839,
     "version": "",
     "try-creative": false
